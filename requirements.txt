@@ -1,0 +1,13 @@
+openpyxl
+pymongo
+Pillow
+requests
+python-magic
+tqdm
+numpy
+pandas
+xlrd
+PyPDF2
+pdfplumber
+easyocr
+pymupdf
